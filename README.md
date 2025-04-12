@@ -13,7 +13,13 @@ The goal is to demonstrates how 3D texture features can be used to classify vasc
 ## 1. Generation of Blood Vessel Trees
 
 In the study, the Karch algorithm was used to simulate the growth of vascular trees. This process is based on physical principles such as the mass conservation principle, Poiseuille's law, and the split law, which describes the relationships between the radii of parent and child branches. The simulation consisted of successively adding output branches of the tree within a given 3D volume. The probability distribution of endpoint location was uniform throughout the volume. Simulation parameters that were varied during the study included: number of terminal branches (3000-5000), input flow, terminal flow, and blood viscosity (1-10 cP). For each tree type, 32 structures were generated with randomly different locations and spatial orientations of branches.
-
+<br>
+<table align="center">
+  <tr><td><img src="figs/fig1.png" alt="fig1"></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">Subsequent phases of vascular tree growth – trees with different number of outlet branches: (a) 20 outlets; (b) 200
+outlets; (c) 1000 outlets and (d) 4000 outlets</span></i></td></tr>
+</table>
+<br>
 ## 2. Converting Vector Description to 3D Raster Image
 
 The generated geometric models of trees (in the form of connected cylinders) were converted into 3D raster images. A simple simulator based on the shape of the MRI scanner point spread function was applied. It was assumed that the image is a collection of cubic voxels, and the signal intensity is proportional to the volume of the voxel part filled with contrast (blood). The partial volume problem was solved by dividing each voxel into 27 or 125 equal sub-voxels. The voxel intensity was the sum of values assigned to its sub-voxels (1 if the center point of the sub-voxel was inside a vessel, 0 otherwise). The final images had a resolution of 256×256×256 voxels.
