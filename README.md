@@ -15,7 +15,7 @@ The goal is to demonstrates how 3D texture features can be used to classify vasc
 In the study, the Karch algorithm was used to simulate the growth of vascular trees. This process is based on physical principles such as the mass conservation principle, Poiseuille's law, and the split law, which describes the relationships between the radii of parent and child branches. The simulation consisted of successively adding output branches of the tree within a given 3D volume. The probability distribution of endpoint location was uniform throughout the volume. Simulation parameters that were varied during the study included: number of terminal branches (3000-5000), input flow, terminal flow, and blood viscosity (1-10 cP). For each tree type, 32 structures were generated with randomly different locations and spatial orientations of branches.
 <br>
 <table align="center">
-  <tr><td><img src="figs/fig1.png" alt="fig1"></td></tr>
+  <tr><td align="center"><img src="figs/fig1.png" alt="fig1"></td></tr>
   <tr><td align="center"><i><span style="font-size:smaller;">Subsequent phases of vascular tree growth – trees with different number of outlet branches: (a) 20 outlets; (b) 200
 outlets; (c) 1000 outlets and (d) 4000 outlets</span></i></td></tr>
 </table>
