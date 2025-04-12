@@ -47,6 +47,13 @@ of interest (VOI)</span></i></td></tr>
 Key findings:
 
 - 3D texture analysis was significantly more effective than 2D analysis in classifying vascular trees (classification error of 0% for 3D texture vs. 33.6% for 2D texture for Visco type trees)
+<br>
+<table align="center">
+  <tr><td align="center"><img src="figs/fig8.png" alt="fig8"></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">Scatter plots in texture feature spaces obtained for 4 classes of simulated vascular trees with different blood
+viscosity (Visco type, Table 4): (a) 2D texture. Selected slice – #218 from 256, F = 4.3, err = 33.6%; (b) 3D texture, F = 566, err = 0%; (c) 2D (elongated cluster on the left side) and 3D (4 distinct clusters on the right) vascular tree features in one scatter plot.</span></i></td></tr>
+</table>
+<br>
 - Monotonic relationships were found between mean values of 3D texture parameters and physical parameters of vascular trees
 - Gradient texture features (e.g., Z_GLevNonU) were mainly related to the number of tree branches, while co-occurrence matrix-based features (e.g., S(0,1,0)SumVarnc) were related to blood viscosity
 - Classification remained effective at realistic noise levels (parameter σ from 0 to 5 for Rician noise)
