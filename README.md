@@ -1,6 +1,6 @@
 # Vascular Tree 3D Texture Analysis
 
-This repository contains implementations of methods for 3D texture analysis of vascular trees as described in the paper by Kociński et al. (2012). The project includes:
+This repository contains implementations of methods for 3D texture analysis of vascular trees as described in the paper by Kociński et al.&nbsp;(2012). The project includes:
 - Algorithms for vascular tree growth simulation using the Karch method
 - Tools for converting vector-based tree models to 3D raster images
 - Implementation of 3D texture feature extraction (co-occurrence matrices, run-length matrices, gradient-based features)
