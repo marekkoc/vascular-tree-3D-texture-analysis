@@ -55,7 +55,7 @@ Key findings:
 <table align="center">
   <tr><td align="center"><img src="figs/fig8.png" alt="fig8"></td></tr>
   <tr><td align="center"><i><span style="font-size:smaller;">Scatter plots in texture feature spaces obtained for 4 classes of simulated vascular trees with different blood
-viscosity: (a) 2D texture. Selected slice – #218 from 256, F = 4.3, err = 33.6%; (b) 3D texture, F = 566, err = 0%; (c) 2D (elongated cluster on the left side) and 3D (4 distinct clusters on the right) vascular tree features in one scatter plot.</span></i></td></tr>
+viscosity: (a) 2D texture. Selected slice – #218 from 256, F = 4.3, err = 33.6%; (b) 3D texture, F = 566, err = 0%; (c) 2D (elongated cluster on the left side) and 3D (4&nbsp;distinct clusters on the right) vascular tree features in one scatter plot.</span></i></td></tr>
 </table>
 <br>
 
