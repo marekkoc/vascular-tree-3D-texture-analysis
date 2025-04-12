@@ -72,6 +72,14 @@ every animal within the same cancerous tissue class: (a) NG2 nr 1; (b) NG2 nr 2;
 
 The effect of NG2 proteoglycan on tumor neovascularization was studied. Four 3D images were analyzed for each of 7 different types of tumor tissue. 3D texture parameters based on the co-occurrence matrix were calculated for VOI covering all voxels of the images, and then transformed into the most discriminating features (MDFs) using Fisher's discriminant analysis.
 
+<br>
+<table align="center">
+  <tr><td align="center"><img src="figs/fig14.png" alt="fig14"></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">Scatter plot of 7 classes of cancerous tissue in rat brain: (a) co-occurence matrix feature space; F = 21, classiﬁcation
+error err = 8/26, (31%) and (b) MDF feature space; F = 27, classiﬁcation error err = 0/26 (0%)</span></i></td></tr>
+</table>
+<br>
+
 The results showed that points in the co-occurrence matrix texture feature space and MDF form clearly separated clusters on the scatter plot. The classification error was 31% for co-occurrence matrix features and 0% for MDF features. The study clearly confirmed the possibility of classifying real vascular structures based on numerical parameters of 3D image texture.
 
 
