@@ -20,6 +20,7 @@ In the study, the Karch algorithm was used to simulate the growth of vascular tr
 outlets; (c) 1000 outlets and (d) 4000 outlets</span></i></td></tr>
 </table>
 <br>
+
 ## 2. Converting Vector Description to 3D Raster Image
 
 The generated geometric models of trees (in the form of connected cylinders) were converted into 3D raster images. A simple simulator based on the shape of the MRI scanner point spread function was applied. It was assumed that the image is a collection of cubic voxels, and the signal intensity is proportional to the volume of the voxel part filled with contrast (blood). The partial volume problem was solved by dividing each voxel into 27 or 125 equal sub-voxels. The voxel intensity was the sum of values assigned to its sub-voxels (1 if the center point of the sub-voxel was inside a vessel, 0 otherwise). The final images had a resolution of 256×256×256 voxels.
