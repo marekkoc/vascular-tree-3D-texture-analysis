@@ -97,4 +97,4 @@ The results showed that points in the co-occurrence matrix texture feature space
 
 1. Texture Analysis in Application to Quantitative Study of 3D Vascular Tree Images, A. Klepaczko, M. Kociński, A. Materka, M. Chekenya, A. Lundervold, pp:730-735, 6th International Symposium Image and Signal Processing and Analysis, Salzburg, Austria, 16-18.09.2009, ([link](https://doi.org/10.1109/ISPA.2009.5297639))
 
-1 .Cluster Analysis in Application to Quantitative Inspection of 3D Vascular Tree Images, A. Klepaczko, M. Kociński, A. Materka, Advances in Intelligent and Soft Computing, 2009, 57:87-94
+1. Cluster Analysis in Application to Quantitative Inspection of 3D Vascular Tree Images, A. Klepaczko, M. Kociński, A. Materka, Advances in Intelligent and Soft Computing, 2009, 57:87-94
