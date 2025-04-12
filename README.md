@@ -34,7 +34,17 @@ Intensity Projection (MIP)</span></i></td></tr>
 
 ## 3. Texture Analysis of Blood Vessel Tree Images and Results
 
-Spherical volumes of interest (VOI) were used to calculate texture parameters of the simulated trees. 3D texture features based on co-occurrence matrix, run-length matrix, and gradient were calculated. Key findings:
+Spherical volumes of interest (VOI) were used to calculate texture parameters of the simulated trees. 3D texture features based on co-occurrence matrix, run-length matrix, and gradient were calculated.
+
+<br>
+<table align="center">
+  <tr><td align="center"><img src="figs/fig6.png" alt="fig6"></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">Regions of interest for 2D and 3D texture parameters computation: (a) 2D region of interest (ROI) and (b) 3D volume
+of interest (VOI)</span></i></td></tr>
+</table>
+<br>
+
+Key findings:
 
 - 3D texture analysis was significantly more effective than 2D analysis in classifying vascular trees (classification error of 0% for 3D texture vs. 33.6% for 2D texture for Visco type trees)
 - Monotonic relationships were found between mean values of 3D texture parameters and physical parameters of vascular trees
