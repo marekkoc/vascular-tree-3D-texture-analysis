@@ -61,7 +61,16 @@ viscosity: (a) 2D texture. Selected slice – #218 from 256, F = 4.3, err = 33.6
 
 ## 4. Analysis of Confocal Microscopy Images and Results
 
-For experimental confirmation, 3D images of rat brain vascular structure were obtained using confocal microscopy. The effect of NG2 proteoglycan on tumor neovascularization was studied. Four 3D images were analyzed for each of 7 different types of tumor tissue. 3D texture parameters based on the co-occurrence matrix were calculated for VOI covering all voxels of the images, and then transformed into the most discriminating features (MDFs) using Fisher's discriminant analysis.
+For experimental confirmation, 3D images of rat brain vascular structure were obtained using confocal microscopy.
+<br>
+<table align="center">
+  <tr><td align="center"><img src="figs/fig13.png" alt="fig13"></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">3D confocal microscopy images example of 3 classes of rat brain cancerous tissue (MIP). Image texture depends on
+every animal within the same cancerous tissue class: (a) NG2 nr 1; (b) NG2 nr 2; (c) WT nr 1; (d) WT nr 2; (e) sham nr 1 and (f) sham nr 2.</span></i></td></tr>
+</table>
+<br>
+
+The effect of NG2 proteoglycan on tumor neovascularization was studied. Four 3D images were analyzed for each of 7 different types of tumor tissue. 3D texture parameters based on the co-occurrence matrix were calculated for VOI covering all voxels of the images, and then transformed into the most discriminating features (MDFs) using Fisher's discriminant analysis.
 
 The results showed that points in the co-occurrence matrix texture feature space and MDF form clearly separated clusters on the scatter plot. The classification error was 31% for co-occurrence matrix features and 0% for MDF features. The study clearly confirmed the possibility of classifying real vascular structures based on numerical parameters of 3D image texture.
 
