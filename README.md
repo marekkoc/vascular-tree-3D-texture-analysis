@@ -72,4 +72,12 @@ The results showed that points in the co-occurrence matrix texture feature space
 
 1. Quantitative analysis of vascular trees represented by digital images; M. Kociński, PhD thesis, Institute of Electronics, The Technical University of Lodz, Lodz, Poland, 2009; (in Polish, [link](https://www.dropbox.com/scl/fi/0nxhbbb67x62jtsokyoe7/2009_Kocinski_Quantitative-analysis-of-vascular-trees-represented-by-digital-images-PhD.pdf?rlkey=8dgvtoqt0ipi7ymh2e4cskmox&st=pe50gubf&dl=0))
 
-1. Vascular tree growth modeling and fluid flow simulation through porous media, M. Kociński, M. Furmańczyk, A. Przekwas, CFD Research Corporation, 2003. Technical-Report ([link](https://www.dropbox.com/scl/fi/ystwqtmqjjf4jjug2ee0z/2003_Kocinski_Vascular-tree-modeling-Technical-Report.pdf?rlkey=z1s1tgt6nx8fy66bxlc0w3rbe&st=9h3h8b3k&dl=0)) 
+1. Vascular tree growth modeling and fluid flow simulation through porous media, M. Kociński, M. Furmańczyk, A. Przekwas, CFD Research Corporation, 2003. Technical-Report ([link](https://www.dropbox.com/scl/fi/ystwqtmqjjf4jjug2ee0z/2003_Kocinski_Vascular-tree-modeling-Technical-Report.pdf?rlkey=z1s1tgt6nx8fy66bxlc0w3rbe&st=9h3h8b3k&dl=0))
+   
+1. Quantitative description of 3D vascularity images: texture-based approach and its verification through cluster analysis, A. Klepaczko, M. Kociński, A. Materka, Pattern Analysis and Application, vol. 14, nr 4, pp. 415-424, 2011 (IF=0.81) ([link](https://link.springer.com/article/10.1007/s10044-010-0192-8))
+
+1. Cluster analysis in application to quantitative inspection of 3D vascular tree images, A. Klepaczko, M. Kociński, A. Materka, Computer recognition systems. 2009, s.87-94, Springer - Verlag 2009, ([link](https://link.springer.com/chapter/10.1007/978-3-540-93905-4_11))
+
+1. Texture Analysis in Application to Quantitative Study of 3D Vascular Tree Images, A. Klepaczko, M. Kociński, A. Materka, M. Chekenya, A. Lundervold, pp:730-735, 6th International Symposium Image and Signal Processing and Analysis, Salzburg, Austria, 16-18.09.2009, ([link](https://doi.org/10.1109/ISPA.2009.5297639))
+
+1 .Cluster Analysis in Application to Quantitative Inspection of 3D Vascular Tree Images, A. Klepaczko, M. Kociński, A. Materka, Advances in Intelligent and Soft Computing, 2009, 57:87-94
