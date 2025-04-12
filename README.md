@@ -27,7 +27,7 @@ The generated geometric models of trees (in the form of connected cylinders) wer
 <br>
 <table align="center">
   <tr><td align="center"><img src="figs/fig5.png" alt="fig5"></td></tr>
-  <tr><td align="center"><i><span style="font-size:smaller;">Examples of vector-described 3D raster images of vascular tree from Fig. 3d: (a) orthogonal slices and (b) Maximum
+  <tr><td align="center"><i><span style="font-size:smaller;">Examples of vector-described 3D raster images of vascular tree: (a) orthogonal slices and (b) Maximum
 Intensity Projection (MIP)</span></i></td></tr>
 </table>
 <br>
